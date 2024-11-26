@@ -77,8 +77,8 @@ function playPause(){
 function carregarMusica(){
     nomeMusica.innerText = `${playlistAleatoria[index].nomeMusica}`
     nomeBanda.innerText = `${playlistAleatoria[index].nomeBanda}`
-    som.src = `/musicas/${playlistAleatoria[index].file}.mp3`
-    capa.src= `/capas/${playlistAleatoria[index].file}.jpg`
+    som.src = `musicas/${playlistAleatoria[index].file}.mp3`
+    capa.src= `capas/${playlistAleatoria[index].file}.jpg`
     botaoLike()
 }
 
