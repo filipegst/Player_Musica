@@ -22,7 +22,7 @@ let repet = false
 const newMagicWand = {
     nomeMusica : 'NEW MAGIC WAND',
     nomeBanda : 'Tyler, The Creator',
-    file : 'NEW MAGIC WAND',
+    file : 'NEWMAGICWAND',
     gostei: true
 
 }
@@ -30,7 +30,7 @@ const newMagicWand = {
 const kingKunta = {
     nomeMusica : 'King Kunta',
     nomeBanda : 'Kendrick Lammar',
-    file : 'King Kunta',
+    file : 'KingKunta',
     gostei: false
 
 }
